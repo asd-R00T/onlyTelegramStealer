@@ -21,3 +21,11 @@ OnlyTelegramStealer is a Python script that creates a backup of your Telegram da
    ```bash
    git clone https://github.com/asd-R00T/OnlyTelegramStealer.git
    cd OnlyTelegramStealer
+
+## Important Note
+
+This script is intended for educational purposes only. It is essential to respect the privacy and security of others when working with data. Unauthorized access to personal information or data without consent is illegal and unethical. Always ensure that you have permission to access and use any data you work with.
+
+## Disclaimer
+
+The author of this script does not take any responsibility for the misuse or illegal activities conducted using this tool. Users are solely responsible for their actions and must ensure compliance with all applicable laws and regulations regarding data privacy and security.
